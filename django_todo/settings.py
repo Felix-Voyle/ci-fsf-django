@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-$$_4!x3r384bz8amtns6+s%7-nw_oce-2*)i025afpqxmk6$r@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ckz8780-django-todo-app-felix']
 
 
 # Application definition
